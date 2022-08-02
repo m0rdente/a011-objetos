@@ -42,5 +42,4 @@ copiaPokemon1.ataques.push({
     tipo: "Água",
     precisao: 100
     })
-
 console.log(pokemon1,copiaPokemon1)
